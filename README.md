@@ -11,6 +11,7 @@ Initialiser un environnement de travail sur votre machine locale pour suivre les
 Une capture d'écran comme ci-dessous du studio avec les deux repos installés :
 - [mslearn-aml-labs](https://github.com/MicrosoftDocs/mslearn-aml-labs.git)
 - [ml-basics](https://github.com/microsoftdocs/ml-basics)
+
 ![exemple de livrable](img/livrable.png)
 
 Ainsi qu'une capture d'écran comme ci-dessous avec les lignes suivantes qui fonctionnent :
