@@ -14,15 +14,6 @@ Une capture d'écran comme ci-dessous du studio avec les deux repos installés :
 ![exemple de livrable](img/livrable.png)
 
 Ainsi qu'une capture d'écran comme ci-dessous avec les lignes suivantes qui fonctionnent :
-```python
-import azureml.core
-print("Ready to use Azure ML", azureml.core.VERSION)
-
-from azureml.core import Workspace
-
-ws = Workspace.from_config()
-print(ws.name, "loaded")
-``` 
 ![exemple de livrable local](img/livrable-local.png)
 
 
