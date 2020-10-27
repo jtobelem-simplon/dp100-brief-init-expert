@@ -24,6 +24,8 @@ dp100
 
 ## Contexte du projet
 
+Dans ce projet, le but va être d'installer un environnement local pour utiliser la sdk azure depuis sa propre machine. Il faudra pour cela savoir gérer un environnement conda et installer des dépendances spécifiques à votre architecture (par exemple savoir installer docker sous windows). 
+
 Pour initialiser la préparation à la certification dp100 en local, suivez les étapes suivantes :
 - vérifiez que conda est installé sur votre machine
 - créez un environnement nommé "azure" utilisant python 3.7
