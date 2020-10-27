@@ -43,7 +43,7 @@ ws = Workspace.from_config()
 print(ws.name, "loaded")
 ``` 
 
-- suivez maintenant les cours du parcours microsoft et exécutez les notebooks correspondants dans votre environnement configuré
+- suivez maintenant les cours du parcours microsoft et exécutez les notebooks correspondants dans votre environnement local configuré
 
 ![à vous de jouer](img/a-vous.png)
 
